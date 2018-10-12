@@ -3,7 +3,7 @@ import io
 import os
 from urllib.request import urlopen
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="/Users/vishwanathakuthota/Documents/8X8Dr.Ali/chatbot/ai-labs-8e7004f1d6c6.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="Path to API json file "
 
 
 # [START speech_transcribe_async]
