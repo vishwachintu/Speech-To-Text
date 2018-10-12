@@ -5,7 +5,7 @@ import argparse
 import re
 import sys
 import os
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="/Users/vishwanathakuthota/Documents/8X8Dr.Ali/chatbot/ai-labs-8e7004f1d6c6.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="path to API file json"
 
 from google.cloud import speech
 from google.cloud.speech import enums
