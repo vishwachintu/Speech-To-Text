@@ -14,8 +14,8 @@ All thses scripts can work for google API's
 
 How to use:
 
-Clone the github repo https://github.com/vishwanathkavya/Speech-to-Text-
-Get your API from gogle cloud (https://cloud.google.com/)
-copy you API to this folder
-Edit the path to API in the above scripts. 
-Excute the scripts. 
+1. Clone the github repo https://github.com/vishwanathkavya/Speech-to-Text-
+2. Get your API from gogle cloud (https://cloud.google.com/)
+3. copy you API to this folder.
+4. Edit the path to API in the above scripts. 
+5. Excute the scripts. 
