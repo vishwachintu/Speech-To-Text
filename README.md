@@ -10,3 +10,12 @@ All thses scripts can work for google API's
 
 Use HTML file for without using any kind of APIS and you can integrate them with your HTML for ease of use. Those are home brewed scripts.  
 
+3. the bash script which you see is very user friendly to to identify the action words.
+
+How to use:
+
+Clone the github repo https://github.com/vishwanathkavya/Speech-to-Text-
+Get your API from gogle cloud (https://cloud.google.com/)
+copy you API to this folder
+Edit the path to API in the above scripts. 
+Excute the scripts. 
