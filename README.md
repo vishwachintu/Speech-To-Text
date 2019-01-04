@@ -16,6 +16,7 @@ How to use:
 
 1. Clone the github repo https://github.com/vishwanathkavya/Speech-to-Text-
 2. Get your API from gogle cloud (https://cloud.google.com/)
-3. copy you API to this folder.
-4. Edit the path to API in the above scripts. 
-5. Excute the scripts. 
+3. Make sure you have [SoX](http://sox.sourceforge.net/) installed. On a Mac: `brew install sox --with-flac`
+4. copy you API to this folder.
+5. Edit the path to API in the above scripts. 
+6. Excute the scripts. 
